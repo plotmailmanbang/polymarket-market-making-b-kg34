@@ -1,4 +1,4 @@
-# 
+# Polymarket secure Trading Bot: price-monitoring & market-making offers the most advanced Polymarket trading-bot, with price-monitoring and market-making. Ideal for professional
 
 
 
